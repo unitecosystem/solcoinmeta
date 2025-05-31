@@ -1,10 +1,10 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
+  "name": "UNIT ADVERT COIN",
+  "symbol": "ADVERTCOIN",
   "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/Advert.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
+    "name": "UNIT ADVERT COIN",
     "site": "https://ADVERT.unit.network/coin"
   },
   "seller_fee_basis_points": 0,

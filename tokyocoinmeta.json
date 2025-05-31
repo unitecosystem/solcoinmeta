@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT TOKYO COIN",
+  "symbol": "TOKYOCOIN",
+  "description": "Powering the Tokyo Token Economy on Unit Network",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/tokyo512.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT TOKYO COIN",
+    "site": "https://tokyo.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT SYDNEY COIN",
+  "symbol": "SYDNEYCOIN",
+  "description": "A decentralized city token capturing the innovation, lifestyle, and global energy of Australia's most iconic city.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/SYDNEY/sydney512.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT SYDNEY COIN",
+    "site": "https://sydney.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

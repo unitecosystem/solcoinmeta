@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT SEA COIN",
+  "symbol": "SEACOIN",
+  "description": "$SEACOIN is a community passionate about sailing, yacht trips and tokenisation of the sea economy..",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/sea.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT SEA COIN",
+    "site": "https://sea.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

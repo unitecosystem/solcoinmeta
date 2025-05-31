@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT NETWORKSTATE COIN",
+  "symbol": "NSCOIN",
+  "description": "A decentralized platform connecting network cities, digital citizens, and global communities across Web3 and beyond.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/NSTATE/NSTATE.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT NETWORKSTATE COIN",
+    "site": "https://networkstate.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

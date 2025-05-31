@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT ATLANTA COIN",
+  "symbol": "ATLANTACOIN",
+  "description": "A decentralized platform connecting Atlanta community of creators, innovators, and communities across Web3 and beyond.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ATLANTA/atlanta512.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT ATLANTA COIN",
+    "site": "https://atlanta.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

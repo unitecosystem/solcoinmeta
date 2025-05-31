@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT PROPERTY COIN",
+  "symbol": "PROPCOIN",
+  "description": "The Future of Property Is Borderless and On-Chain..",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/property.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT PROPERTY COIN",
+    "site": "https://property.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

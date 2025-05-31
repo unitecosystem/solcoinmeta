@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT INTERVIEW COIN",
+  "symbol": "VIEWCOIN",
+  "description": "On-Chain Conversations with Off-the-Charts Potential",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/interview.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT INTERVIEW COIN",
+    "site": "https://interview.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

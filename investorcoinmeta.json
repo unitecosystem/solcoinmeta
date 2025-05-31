@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT INVESTOR COIN",
+  "symbol": "INVESTCOIN",
+  "description": "Powering the Investor Economy on Unit Network. Back the Builders. Own the Future.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/unitecosytem/main/InvestorCoin512.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT INVESTOR COIN",
+    "site": "https://investor.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

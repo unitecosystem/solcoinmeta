@@ -1,11 +1,11 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT OSAKA COIN",
+  "symbol": "OSAKACOIN",
+  "description": "Osaka's Economy, Reimagined for a Global Future.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/osaka/osaka.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
-    "site": "https://ADVERT.unit.network/coin"
+    "name": "UNIT OSAKA COIN",
+    "site": "https://osaka.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
   "creators": null

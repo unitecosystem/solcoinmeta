@@ -1,10 +1,10 @@
 {
-  "name": "UNIT ADVERT LAUNCH",
-  "symbol": "ADVERTLCH",
-  "description": "A decentralized platform reshaping how brands, creators, and communities connect and promote across Web3.",
-  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/ADVERT/advertl512.png",
+  "name": "UNIT MANILA COIN",
+  "symbol": "MANILACOIN",
+  "description": "Reimagining Manila's Economy — One Token at a Time.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/Unit-Ecosystem/main/MANILA/manila.png",
   "creator": {
-    "name": "UNIT ADVERT LAUNCH",
+    "name": "UNIT MANILA COIN",
     "site": "https://ADVERT.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
